@@ -1,0 +1,20 @@
+{
+  "name": "simple-web-server",
+  "version": "1.0.0",
+  "description": "A simple web server built with Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valencra/simple-web-server.git"
+  },
+  "author": "Robert Valencia",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/valencra/simple-web-server/issues"
+  },
+  "homepage": "https://github.com/valencra/simple-web-server#readme"
+}
